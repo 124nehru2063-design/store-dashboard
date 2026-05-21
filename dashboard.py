@@ -33,6 +33,29 @@ filtered_df = df[
     (df["day_of_week"].isin(day_filter))
 ]
 
+# ---------------- DOWNLOADS ----------------
+st.sidebar.divider()
+st.sidebar.header("Downloads")
+
+csv = filtered_df.to_csv(index=False).encode('utf-8')
+st.sidebar.download_button(
+    label="📄 Download Data (CSV)",
+    data=csv,
+    file_name="filtered_sales_data.csv",
+    mime="text/csv",
+)
+
+try:
+    with open("store_report.pdf", "rb") as f:
+        st.sidebar.download_button(
+            label="📊 Download Report (PDF)",
+            data=f,
+            file_name="store_report.pdf",
+            mime="application/pdf",
+        )
+except FileNotFoundError:
+    st.sidebar.warning("PDF Report not generated yet.")
+
 # ---------------- KPI METRICS ----------------
 total_sales = filtered_df["total_amount (Rs.)"].sum()
 total_qty = filtered_df["quantity_sold"].sum()

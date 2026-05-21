@@ -1,0 +1,201 @@
+sale_id,date,day_of_week,product_name,category,size,color,quantity_sold,price (Rs.),discount (%),total_amount (Rs.),payment_method,customer_gender,age_group,store_section
+S001,2026-04-14,Tuesday,Cargo Pants,Bottoms,XL,Red,1,1799,10,1619.1,UPI,Other,Teen,Accessories
+S002,2026-04-17,Friday,Wallet,Accessories,L,White,1,599,50,299.5,Cash,Female,Adult,Accessories
+S003,2026-04-15,Wednesday,Joggers,Bottoms,XL,Navy Blue,3,1499,50,2248.5,Card,Female,Young Adult,Kids
+S004,2026-04-07,Tuesday,Cargo Pants,Bottoms,S,White,1,1799,20,1439.2,UPI,Female,Adult,Men
+S005,2026-04-20,Monday,Slim Fit Jeans,Bottoms,M,Black,2,1999,10,3598.2,Cash,Female,Senior,Kids
+S006,2026-04-16,Thursday,Slim Fit Jeans,Bottoms,L,Navy Blue,4,1999,10,7196.4,Cash,Other,Young Adult,Men
+S007,2026-04-30,Thursday,Sandals,Footwear,M,Navy Blue,2,1299,30,1818.6,Cash,Male,Young Adult,Men
+S008,2026-04-15,Wednesday,Basic White T-Shirt,Tops,S,Red,3,799,0,2397.0,Card,Female,Senior,Men
+S009,2026-04-24,Friday,Cotton Kurta,Ethnic Wear,XL,Red,3,1899,20,4557.6,UPI,Male,Adult,Men
+S010,2026-04-10,Friday,Cargo Pants,Bottoms,XL,Blue,2,1799,50,1799.0,Card,Male,Senior,Kids
+S011,2026-04-07,Tuesday,Oversized Graphic Tee,Tops,S,White,2,999,30,1398.6,UPI,Other,Young Adult,Kids
+S012,2026-04-14,Tuesday,Floral Kurti,Ethnic Wear,L,Navy Blue,1,1599,0,1599.0,Cash,Female,Adult,Women
+S013,2026-04-21,Tuesday,Cotton Kurta,Ethnic Wear,L,Grey,2,1899,30,2658.6,UPI,Male,Senior,Kids
+S014,2026-04-10,Friday,Wallet,Accessories,S,Red,1,599,50,299.5,UPI,Female,Teen,Accessories
+S015,2026-04-02,Thursday,Wallet,Accessories,XL,White,1,599,0,599.0,Cash,Male,Teen,Women
+S016,2026-04-13,Monday,Floral Kurti,Ethnic Wear,L,Navy Blue,3,1599,50,2398.5,UPI,Male,Young Adult,Women
+S017,2026-04-16,Thursday,Cotton Kurta,Ethnic Wear,XL,Navy Blue,1,1899,10,1709.1,Card,Female,Young Adult,Women
+S018,2026-04-01,Wednesday,Cargo Pants,Bottoms,M,Blue,2,1799,30,2518.6,Cash,Other,Young Adult,Kids
+S019,2026-04-01,Wednesday,Cap,Accessories,M,Blue,1,499,50,249.5,Card,Other,Young Adult,Accessories
+S020,2026-04-29,Wednesday,Basic White T-Shirt,Tops,S,Grey,2,799,20,1278.4,Card,Male,Senior,Kids
+S021,2026-04-16,Thursday,Cotton Kurta,Ethnic Wear,L,Blue,4,1899,10,6836.4,Card,Other,Adult,Kids
+S022,2026-04-10,Friday,Wallet,Accessories,M,Navy Blue,1,599,20,479.2,Card,Female,Adult,Accessories
+S023,2026-04-30,Thursday,Slim Fit Jeans,Bottoms,S,Navy Blue,2,1999,20,3198.4,Cash,Male,Senior,Accessories
+S024,2026-04-21,Tuesday,Floral Kurti,Ethnic Wear,L,White,2,1599,0,3198.0,Card,Female,Adult,Men
+S025,2026-04-27,Monday,Slim Fit Jeans,Bottoms,M,White,2,1999,50,1999.0,UPI,Male,Adult,Women
+S026,2026-04-28,Tuesday,Cargo Pants,Bottoms,S,Navy Blue,1,1799,50,899.5,UPI,Other,Young Adult,Women
+S027,2026-04-15,Wednesday,Sneakers,Footwear,L,Navy Blue,6,2499,50,7497.0,UPI,Male,Senior,Women
+S028,2026-04-07,Tuesday,Basic White T-Shirt,Tops,S,White,1,799,30,559.3,Card,Male,Teen,Men
+S029,2026-04-23,Thursday,Sneakers,Footwear,L,Blue,5,2499,20,9996.0,UPI,Male,Young Adult,Men
+S030,2026-04-03,Friday,Sandals,Footwear,M,Blue,2,1299,20,2078.4,Cash,Female,Young Adult,Kids
+S031,2026-04-14,Tuesday,Sneakers,Footwear,L,Grey,3,2499,30,5247.9,Card,Male,Adult,Kids
+S032,2026-04-24,Friday,Floral Kurti,Ethnic Wear,S,Grey,2,1599,20,2558.4,UPI,Other,Teen,Accessories
+S033,2026-04-19,Sunday,Slim Fit Jeans,Bottoms,M,Black,2,1999,0,3998.0,Card,Male,Senior,Kids
+S034,2026-04-05,Sunday,Floral Kurti,Ethnic Wear,L,Grey,2,1599,10,2878.2,Cash,Other,Teen,Men
+S035,2026-04-04,Saturday,Sandals,Footwear,M,Blue,2,1299,50,1299.0,Card,Other,Adult,Accessories
+S036,2026-04-29,Wednesday,Cap,Accessories,M,Black,1,499,30,349.3,Card,Other,Senior,Accessories
+S037,2026-04-16,Thursday,Cap,Accessories,L,Blue,3,499,0,1497.0,Cash,Female,Young Adult,Kids
+S038,2026-04-29,Wednesday,Wallet,Accessories,L,White,1,599,20,479.2,UPI,Male,Adult,Men
+S039,2026-04-08,Wednesday,Wallet,Accessories,M,Black,1,599,0,599.0,UPI,Male,Young Adult,Accessories
+S040,2026-04-29,Wednesday,Cargo Pants,Bottoms,M,Grey,4,1799,0,7196.0,Cash,Male,Adult,Accessories
+S041,2026-04-02,Thursday,Sandals,Footwear,L,Grey,2,1299,10,2338.2,UPI,Male,Senior,Men
+S042,2026-04-21,Tuesday,Cargo Pants,Bottoms,M,Navy Blue,2,1799,0,3598.0,UPI,Female,Senior,Kids
+S043,2026-04-30,Thursday,Wallet,Accessories,M,Red,1,599,30,419.3,Card,Male,Young Adult,Men
+S044,2026-04-30,Thursday,Cotton Kurta,Ethnic Wear,M,Navy Blue,1,1899,20,1519.2,UPI,Female,Adult,Men
+S045,2026-04-05,Sunday,Joggers,Bottoms,L,White,2,1499,30,2098.6,Cash,Male,Adult,Men
+S046,2026-04-04,Saturday,Wallet,Accessories,XL,Red,1,599,0,599.0,Cash,Female,Adult,Accessories
+S047,2026-04-28,Tuesday,Polo T-Shirt,Tops,M,Blue,1,1199,0,1199.0,UPI,Female,Teen,Kids
+S048,2026-04-16,Thursday,Slim Fit Jeans,Bottoms,M,White,4,1999,0,7996.0,Card,Male,Adult,Accessories
+S049,2026-04-16,Thursday,Basic White T-Shirt,Tops,L,White,3,799,30,1677.9,Cash,Male,Senior,Men
+S050,2026-04-08,Wednesday,Oversized Graphic Tee,Tops,M,Grey,2,999,0,1998.0,Cash,Female,Adult,Men
+S051,2026-04-24,Friday,Cap,Accessories,L,Red,4,499,20,1596.8,Cash,Other,Adult,Men
+S052,2026-04-24,Friday,Joggers,Bottoms,XS,Red,4,1499,10,5396.4,UPI,Male,Adult,Men
+S053,2026-04-07,Tuesday,Slim Fit Jeans,Bottoms,M,White,1,1999,50,999.5,UPI,Female,Senior,Accessories
+S054,2026-04-07,Tuesday,Sandals,Footwear,L,Blue,1,1299,10,1169.1,UPI,Female,Young Adult,Men
+S055,2026-04-24,Friday,Cotton Kurta,Ethnic Wear,M,Grey,1,1899,50,949.5,Card,Male,Young Adult,Kids
+S056,2026-04-08,Wednesday,Cargo Pants,Bottoms,S,Navy Blue,1,1799,0,1799.0,UPI,Other,Teen,Accessories
+S057,2026-04-02,Thursday,Oversized Graphic Tee,Tops,M,Blue,1,999,10,899.1,UPI,Female,Adult,Women
+S058,2026-04-20,Monday,Cargo Pants,Bottoms,L,Navy Blue,3,1799,0,5397.0,Card,Other,Adult,Accessories
+S059,2026-04-29,Wednesday,Oversized Graphic Tee,Tops,M,Blue,1,999,0,999.0,Card,Male,Teen,Men
+S060,2026-04-18,Saturday,Sneakers,Footwear,XL,White,6,2499,0,14994.0,UPI,Female,Senior,Kids
+S061,2026-04-27,Monday,Wallet,Accessories,M,White,1,599,0,599.0,Cash,Male,Teen,Accessories
+S062,2026-04-04,Saturday,Oversized Graphic Tee,Tops,L,Blue,5,999,0,4995.0,Cash,Female,Young Adult,Men
+S063,2026-04-03,Friday,Oversized Graphic Tee,Tops,M,Blue,3,999,50,1498.5,UPI,Other,Adult,Men
+S064,2026-04-12,Sunday,Cap,Accessories,M,Red,3,499,10,1347.3,Cash,Other,Senior,Women
+S065,2026-04-27,Monday,Joggers,Bottoms,XS,White,2,1499,10,2698.2,UPI,Male,Young Adult,Women
+S066,2026-04-11,Saturday,Cargo Pants,Bottoms,M,White,2,1799,0,3598.0,Card,Male,Teen,Women
+S067,2026-04-12,Sunday,Polo T-Shirt,Tops,L,Grey,2,1199,0,2398.0,UPI,Other,Senior,Accessories
+S068,2026-04-17,Friday,Cap,Accessories,L,Grey,1,499,0,499.0,UPI,Female,Adult,Kids
+S069,2026-04-06,Monday,Oversized Graphic Tee,Tops,M,Navy Blue,2,999,20,1598.4,UPI,Male,Senior,Accessories
+S070,2026-04-07,Tuesday,Basic White T-Shirt,Tops,XL,White,2,799,0,1598.0,Cash,Female,Adult,Kids
+S071,2026-04-01,Wednesday,Sneakers,Footwear,L,White,6,2499,30,10495.8,UPI,Male,Young Adult,Kids
+S072,2026-04-04,Saturday,Sneakers,Footwear,M,Navy Blue,5,2499,10,11245.5,UPI,Other,Adult,Accessories
+S073,2026-04-20,Monday,Oversized Graphic Tee,Tops,M,Navy Blue,1,999,50,499.5,Cash,Male,Adult,Kids
+S074,2026-04-19,Sunday,Wallet,Accessories,M,Navy Blue,1,599,0,599.0,Card,Female,Teen,Accessories
+S075,2026-04-29,Wednesday,Polo T-Shirt,Tops,M,Navy Blue,4,1199,0,4796.0,Cash,Other,Senior,Women
+S076,2026-04-11,Saturday,Sneakers,Footwear,M,Black,5,2499,10,11245.5,Card,Other,Teen,Men
+S077,2026-04-27,Monday,Slim Fit Jeans,Bottoms,M,White,3,1999,0,5997.0,Card,Male,Senior,Men
+S078,2026-04-05,Sunday,Polo T-Shirt,Tops,S,Red,5,1199,20,4796.0,Cash,Female,Senior,Women
+S079,2026-04-26,Sunday,Floral Kurti,Ethnic Wear,M,Navy Blue,5,1599,0,7995.0,Cash,Female,Teen,Kids
+S080,2026-04-03,Friday,Oversized Graphic Tee,Tops,L,Navy Blue,1,999,30,699.3,UPI,Female,Teen,Accessories
+S081,2026-04-17,Friday,Sandals,Footwear,L,Black,3,1299,10,3507.3,Cash,Female,Young Adult,Women
+S082,2026-04-08,Wednesday,Polo T-Shirt,Tops,M,Grey,2,1199,10,2158.2,UPI,Male,Adult,Kids
+S083,2026-04-09,Thursday,Cap,Accessories,M,Red,1,499,50,249.5,Cash,Male,Senior,Accessories
+S084,2026-04-02,Thursday,Sneakers,Footwear,M,Red,6,2499,10,13494.6,Card,Female,Adult,Kids
+S085,2026-04-23,Thursday,Basic White T-Shirt,Tops,M,Navy Blue,4,799,50,1598.0,Cash,Male,Adult,Men
+S086,2026-04-17,Friday,Sneakers,Footwear,M,Navy Blue,4,2499,30,6997.2,Card,Female,Teen,Men
+S087,2026-04-01,Wednesday,Floral Kurti,Ethnic Wear,L,Navy Blue,4,1599,30,4477.2,UPI,Male,Teen,Kids
+S088,2026-04-20,Monday,Basic White T-Shirt,Tops,XL,Navy Blue,4,799,10,2876.4,Cash,Female,Senior,Kids
+S089,2026-04-23,Thursday,Sneakers,Footwear,L,Black,4,2499,0,9996.0,Cash,Other,Young Adult,Kids
+S090,2026-04-30,Thursday,Sneakers,Footwear,M,Black,5,2499,0,12495.0,Cash,Male,Teen,Women
+S091,2026-04-24,Friday,Basic White T-Shirt,Tops,L,White,4,799,10,2876.4,Card,Female,Adult,Men
+S092,2026-04-02,Thursday,Sandals,Footwear,L,Black,1,1299,50,649.5,Card,Female,Young Adult,Accessories
+S093,2026-04-13,Monday,Cargo Pants,Bottoms,M,Navy Blue,2,1799,30,2518.6,UPI,Female,Adult,Accessories
+S094,2026-04-14,Tuesday,Oversized Graphic Tee,Tops,M,White,1,999,0,999.0,Card,Other,Young Adult,Women
+S095,2026-04-13,Monday,Wallet,Accessories,M,Blue,1,599,20,479.2,UPI,Male,Teen,Accessories
+S096,2026-04-29,Wednesday,Basic White T-Shirt,Tops,M,Red,3,799,0,2397.0,Cash,Male,Adult,Accessories
+S097,2026-04-03,Friday,Oversized Graphic Tee,Tops,S,Red,1,999,10,899.1,Cash,Female,Adult,Men
+S098,2026-04-11,Saturday,Polo T-Shirt,Tops,M,Navy Blue,3,1199,20,2877.6,Card,Other,Senior,Men
+S099,2026-04-26,Sunday,Cap,Accessories,M,Red,5,499,20,1996.0,UPI,Other,Young Adult,Women
+S100,2026-04-09,Thursday,Slim Fit Jeans,Bottoms,M,Blue,2,1999,30,2798.6,Cash,Other,Adult,Men
+S101,2026-04-09,Thursday,Joggers,Bottoms,L,Black,1,1499,30,1049.3,UPI,Male,Teen,Accessories
+S102,2026-04-16,Thursday,Joggers,Bottoms,M,Grey,1,1499,10,1349.1,Card,Other,Teen,Kids
+S103,2026-04-28,Tuesday,Cargo Pants,Bottoms,L,Grey,2,1799,50,1799.0,UPI,Female,Senior,Men
+S104,2026-04-24,Friday,Cargo Pants,Bottoms,M,Black,3,1799,10,4857.3,Cash,Male,Adult,Accessories
+S105,2026-04-18,Saturday,Oversized Graphic Tee,Tops,L,Blue,4,999,0,3996.0,UPI,Other,Adult,Accessories
+S106,2026-04-25,Saturday,Joggers,Bottoms,L,Navy Blue,4,1499,20,4796.8,Card,Other,Adult,Women
+S107,2026-04-20,Monday,Cotton Kurta,Ethnic Wear,S,White,4,1899,0,7596.0,Cash,Female,Young Adult,Women
+S108,2026-04-05,Sunday,Cap,Accessories,M,Blue,4,499,50,998.0,Card,Female,Teen,Kids
+S109,2026-04-12,Sunday,Floral Kurti,Ethnic Wear,XL,Black,5,1599,10,7195.5,UPI,Female,Senior,Men
+S110,2026-04-18,Saturday,Cotton Kurta,Ethnic Wear,L,Grey,2,1899,30,2658.6,UPI,Other,Adult,Men
+S111,2026-04-06,Monday,Cap,Accessories,S,Black,4,499,50,998.0,Cash,Other,Teen,Women
+S112,2026-04-19,Sunday,Oversized Graphic Tee,Tops,L,Blue,3,999,0,2997.0,UPI,Female,Young Adult,Men
+S113,2026-04-16,Thursday,Joggers,Bottoms,L,Navy Blue,2,1499,20,2398.4,UPI,Female,Teen,Men
+S114,2026-04-17,Friday,Wallet,Accessories,M,White,1,599,50,299.5,Cash,Male,Senior,Accessories
+S115,2026-04-24,Friday,Basic White T-Shirt,Tops,XL,Red,4,799,10,2876.4,Cash,Female,Teen,Men
+S116,2026-04-12,Sunday,Slim Fit Jeans,Bottoms,M,Red,4,1999,0,7996.0,Cash,Other,Teen,Men
+S117,2026-04-11,Saturday,Sandals,Footwear,M,Red,4,1299,10,4676.4,Cash,Male,Young Adult,Men
+S118,2026-04-21,Tuesday,Cotton Kurta,Ethnic Wear,L,White,2,1899,30,2658.6,Cash,Male,Teen,Men
+S119,2026-04-23,Thursday,Oversized Graphic Tee,Tops,L,Black,2,999,30,1398.6,Card,Female,Young Adult,Kids
+S120,2026-04-19,Sunday,Cotton Kurta,Ethnic Wear,M,Black,5,1899,0,9495.0,Cash,Female,Teen,Men
+S121,2026-04-02,Thursday,Sneakers,Footwear,L,Grey,6,2499,0,14994.0,UPI,Other,Young Adult,Accessories
+S122,2026-04-18,Saturday,Sneakers,Footwear,L,Blue,4,2499,50,4998.0,UPI,Female,Senior,Accessories
+S123,2026-04-26,Sunday,Cap,Accessories,XL,Red,5,499,10,2245.5,Cash,Other,Teen,Kids
+S124,2026-04-10,Friday,Cap,Accessories,L,Navy Blue,1,499,0,499.0,UPI,Other,Senior,Women
+S125,2026-04-03,Friday,Basic White T-Shirt,Tops,XL,Grey,4,799,50,1598.0,Cash,Other,Senior,Men
+S126,2026-04-22,Wednesday,Cotton Kurta,Ethnic Wear,L,Red,4,1899,50,3798.0,Card,Male,Adult,Men
+S127,2026-04-12,Sunday,Wallet,Accessories,L,Navy Blue,1,599,20,479.2,Cash,Male,Adult,Accessories
+S128,2026-04-30,Thursday,Polo T-Shirt,Tops,XL,Grey,4,1199,30,3357.2,Cash,Male,Teen,Kids
+S129,2026-04-16,Thursday,Cap,Accessories,L,White,4,499,20,1596.8,UPI,Male,Adult,Accessories
+S130,2026-04-11,Saturday,Oversized Graphic Tee,Tops,M,Black,4,999,30,2797.2,UPI,Male,Teen,Kids
+S131,2026-04-17,Friday,Basic White T-Shirt,Tops,L,Red,3,799,50,1198.5,Card,Other,Teen,Accessories
+S132,2026-04-25,Saturday,Cotton Kurta,Ethnic Wear,L,Black,4,1899,20,6076.8,UPI,Male,Senior,Women
+S133,2026-04-01,Wednesday,Cargo Pants,Bottoms,M,Navy Blue,1,1799,0,1799.0,Cash,Male,Adult,Kids
+S134,2026-04-05,Sunday,Cargo Pants,Bottoms,M,Red,2,1799,50,1799.0,UPI,Male,Senior,Kids
+S135,2026-04-07,Tuesday,Polo T-Shirt,Tops,M,Grey,1,1199,0,1199.0,Card,Other,Senior,Men
+S136,2026-04-30,Thursday,Wallet,Accessories,M,Black,1,599,50,299.5,UPI,Male,Adult,Accessories
+S137,2026-04-29,Wednesday,Sandals,Footwear,L,Navy Blue,3,1299,30,2727.9,Card,Male,Adult,Kids
+S138,2026-04-12,Sunday,Floral Kurti,Ethnic Wear,L,Grey,2,1599,0,3198.0,Card,Male,Young Adult,Accessories
+S139,2026-04-21,Tuesday,Cotton Kurta,Ethnic Wear,M,Black,1,1899,50,949.5,Cash,Other,Senior,Men
+S140,2026-04-10,Friday,Basic White T-Shirt,Tops,L,Black,1,799,10,719.1,Card,Male,Teen,Men
+S141,2026-04-29,Wednesday,Sneakers,Footwear,M,Navy Blue,4,2499,50,4998.0,UPI,Other,Senior,Men
+S142,2026-04-29,Wednesday,Wallet,Accessories,S,White,1,599,50,299.5,Cash,Other,Adult,Accessories
+S143,2026-04-08,Wednesday,Basic White T-Shirt,Tops,L,Blue,4,799,30,2237.2,UPI,Male,Senior,Kids
+S144,2026-04-19,Sunday,Sandals,Footwear,L,Black,4,1299,30,3637.2,Cash,Other,Young Adult,Kids
+S145,2026-04-07,Tuesday,Wallet,Accessories,L,White,1,599,20,479.2,UPI,Other,Teen,Men
+S146,2026-04-28,Tuesday,Wallet,Accessories,M,White,1,599,50,299.5,UPI,Male,Young Adult,Men
+S147,2026-04-18,Saturday,Sandals,Footwear,M,Red,4,1299,30,3637.2,Cash,Male,Teen,Men
+S148,2026-04-20,Monday,Polo T-Shirt,Tops,S,Grey,1,1199,10,1079.1,Card,Male,Adult,Men
+S149,2026-04-02,Thursday,Cargo Pants,Bottoms,M,Blue,1,1799,30,1259.3,Card,Male,Senior,Kids
+S150,2026-04-23,Thursday,Floral Kurti,Ethnic Wear,S,White,1,1599,0,1599.0,Cash,Male,Adult,Women
+S151,2026-04-01,Wednesday,Sandals,Footwear,M,White,1,1299,0,1299.0,Cash,Other,Teen,Women
+S152,2026-04-10,Friday,Slim Fit Jeans,Bottoms,L,Black,4,1999,0,7996.0,Card,Female,Senior,Men
+S153,2026-04-27,Monday,Slim Fit Jeans,Bottoms,XS,White,3,1999,20,4797.6,Card,Female,Senior,Women
+S154,2026-04-04,Saturday,Basic White T-Shirt,Tops,M,Grey,3,799,0,2397.0,Cash,Other,Teen,Accessories
+S155,2026-04-03,Friday,Cap,Accessories,L,Black,1,499,20,399.2,Card,Female,Teen,Kids
+S156,2026-04-27,Monday,Polo T-Shirt,Tops,M,White,1,1199,10,1079.1,UPI,Other,Teen,Men
+S157,2026-04-03,Friday,Slim Fit Jeans,Bottoms,L,Red,1,1999,10,1799.1,UPI,Female,Senior,Women
+S158,2026-04-25,Saturday,Joggers,Bottoms,M,Grey,4,1499,50,2998.0,Card,Female,Young Adult,Kids
+S159,2026-04-14,Tuesday,Cap,Accessories,M,Red,1,499,10,449.1,Card,Other,Teen,Kids
+S160,2026-04-21,Tuesday,Floral Kurti,Ethnic Wear,M,White,1,1599,0,1599.0,UPI,Female,Adult,Kids
+S161,2026-04-18,Saturday,Cap,Accessories,M,Black,5,499,0,2495.0,UPI,Other,Young Adult,Accessories
+S162,2026-04-28,Tuesday,Oversized Graphic Tee,Tops,M,Grey,2,999,20,1598.4,Cash,Other,Teen,Accessories
+S163,2026-04-22,Wednesday,Cap,Accessories,M,Red,2,499,10,898.2,UPI,Male,Senior,Kids
+S164,2026-04-18,Saturday,Polo T-Shirt,Tops,L,Navy Blue,3,1199,20,2877.6,UPI,Male,Senior,Women
+S165,2026-04-21,Tuesday,Cap,Accessories,M,Black,2,499,10,898.2,Card,Male,Teen,Kids
+S166,2026-04-01,Wednesday,Cap,Accessories,XL,Black,2,499,10,898.2,UPI,Other,Senior,Men
+S167,2026-04-01,Wednesday,Cap,Accessories,M,Red,4,499,20,1596.8,UPI,Male,Teen,Kids
+S168,2026-04-26,Sunday,Cotton Kurta,Ethnic Wear,L,Navy Blue,3,1899,20,4557.6,Cash,Female,Senior,Women
+S169,2026-04-03,Friday,Oversized Graphic Tee,Tops,XL,Navy Blue,1,999,20,799.2,UPI,Male,Teen,Kids
+S170,2026-04-30,Thursday,Joggers,Bottoms,XS,Blue,3,1499,20,3597.6,UPI,Other,Teen,Kids
+S171,2026-04-20,Monday,Cotton Kurta,Ethnic Wear,L,Black,3,1899,50,2848.5,Card,Female,Young Adult,Accessories
+S172,2026-04-24,Friday,Floral Kurti,Ethnic Wear,S,Black,2,1599,50,1599.0,Cash,Male,Teen,Kids
+S173,2026-04-05,Sunday,Basic White T-Shirt,Tops,L,Black,3,799,10,2157.3,UPI,Female,Adult,Kids
+S174,2026-04-17,Friday,Polo T-Shirt,Tops,M,Blue,4,1199,30,3357.2,UPI,Female,Senior,Accessories
+S175,2026-04-24,Friday,Sneakers,Footwear,M,White,5,2499,0,12495.0,Cash,Female,Young Adult,Kids
+S176,2026-04-06,Monday,Sneakers,Footwear,M,Red,5,2499,0,12495.0,UPI,Male,Senior,Men
+S177,2026-04-07,Tuesday,Oversized Graphic Tee,Tops,L,White,2,999,20,1598.4,Card,Female,Adult,Women
+S178,2026-04-03,Friday,Floral Kurti,Ethnic Wear,L,Navy Blue,2,1599,10,2878.2,Cash,Male,Senior,Men
+S179,2026-04-29,Wednesday,Polo T-Shirt,Tops,S,Black,3,1199,50,1798.5,Card,Other,Adult,Men
+S180,2026-04-25,Saturday,Basic White T-Shirt,Tops,XS,Red,4,799,50,1598.0,UPI,Other,Adult,Men
+S181,2026-04-08,Wednesday,Sandals,Footwear,S,Navy Blue,1,1299,20,1039.2,Card,Other,Senior,Women
+S182,2026-04-11,Saturday,Cap,Accessories,L,Navy Blue,4,499,20,1596.8,Card,Male,Young Adult,Men
+S183,2026-04-26,Sunday,Cotton Kurta,Ethnic Wear,XL,White,4,1899,10,6836.4,UPI,Other,Senior,Men
+S184,2026-04-23,Thursday,Sandals,Footwear,XS,Grey,1,1299,20,1039.2,UPI,Other,Adult,Accessories
+S185,2026-04-11,Saturday,Joggers,Bottoms,M,Red,3,1499,50,2248.5,Cash,Other,Senior,Women
+S186,2026-04-22,Wednesday,Slim Fit Jeans,Bottoms,S,Navy Blue,2,1999,10,3598.2,Card,Female,Teen,Men
+S187,2026-04-27,Monday,Polo T-Shirt,Tops,M,Grey,1,1199,20,959.2,Card,Female,Adult,Kids
+S188,2026-04-15,Wednesday,Joggers,Bottoms,L,Grey,1,1499,30,1049.3,Cash,Female,Teen,Kids
+S189,2026-04-21,Tuesday,Cotton Kurta,Ethnic Wear,L,Navy Blue,1,1899,50,949.5,Cash,Female,Young Adult,Women
+S190,2026-04-29,Wednesday,Sandals,Footwear,S,Blue,1,1299,10,1169.1,Card,Other,Teen,Kids
+S191,2026-04-17,Friday,Wallet,Accessories,L,Grey,1,599,50,299.5,UPI,Male,Senior,Women
+S192,2026-04-04,Saturday,Polo T-Shirt,Tops,M,Red,2,1199,50,1199.0,Card,Female,Senior,Kids
+S193,2026-04-22,Wednesday,Wallet,Accessories,M,Black,1,599,50,299.5,Cash,Male,Young Adult,Kids
+S194,2026-04-29,Wednesday,Basic White T-Shirt,Tops,XL,Red,4,799,50,1598.0,Card,Other,Teen,Women
+S195,2026-04-16,Thursday,Wallet,Accessories,L,Black,1,599,30,419.3,UPI,Other,Senior,Men
+S196,2026-04-06,Monday,Floral Kurti,Ethnic Wear,XS,White,2,1599,30,2238.6,Cash,Male,Teen,Men
+S197,2026-04-04,Saturday,Slim Fit Jeans,Bottoms,M,Navy Blue,4,1999,10,7196.4,Cash,Male,Young Adult,Women
+S198,2026-04-07,Tuesday,Sandals,Footwear,M,Black,1,1299,50,649.5,Card,Female,Young Adult,Men
+S199,2026-04-05,Sunday,Joggers,Bottoms,M,Black,2,1499,30,2098.6,Card,Female,Senior,Women
+S200,2026-04-19,Sunday,Sandals,Footwear,L,Grey,2,1299,10,2338.2,Card,Other,Senior,Kids
